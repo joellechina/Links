@@ -1,0 +1,59 @@
+<html>
+<body>
+<h2>
+These are my favorite things
+</h2>
+<h5>
+My movies
+</h5>
+<ul>
+<li> <b> Horror </b></li>
+</ul>
+<ol>
+<li> Insidious</li>
+<a href="https://www.amazon.com/gp/video/detail/B0055D3EFU">Watch Insidious</a>
+<li> The conjuring</li>
+<a href="https://www.cinemax.com/movies/the-conjuring"> Watch The conjuring</a>
+<li> Annabelle</li>
+<a href="https://www.directv.com/movies/Annabelle-cDBwL211alFwYndpL3Rwb1JpMmJydz09"> Watch Annabelle</a>
+<li> Saw</li>
+<a href="https://www.hulu.com/movie/saw-0cad8df8-510b-49b2-82be-59298462a203"> Watch Saw</a>
+</ol>
+<h5>
+My foods
+</h5>
+<ul>
+<li> <b> Seafood </b></li>
+</ul>
+<ol>
+<li> Shrimp</li>
+<li> Crab</li>
+<li> Lobster</li>
+<li> Salmon</li>
+</ol>
+<h5>
+My shows
+</h5>
+<ul>
+<li> <b> Documentaries (Netflix) </b></li>
+</ul>
+<ol>
+<li> Drug Lords</li>
+<li> Hot Girls Wanted</li>
+<li> FYRE</li>
+<li> Botched Up Bodies</li>
+</ol>
+<h5>
+My music
+</h5>
+<ul>
+<li> <b> Rap (female)</b></li>
+</ul>
+<ol>
+<li> Megan Thee Stallion</li>
+<li> Lightskin Kiesha</li>
+<li> Rico Nasty</li>
+<li> Bbymutha</li>
+</ol>
+</body>
+</html>
